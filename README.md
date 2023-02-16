@@ -95,7 +95,7 @@ Step 3 .
   
   ~~~
   
-  Step 4. Feature
+  Step 4. Features
   
   ```
    MovingToast.setSuccessColor(R.color.custom_success_color)
